@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Haml to replace erb and simplify html
 gem 'haml'
 
+# Skeleton CSS framework
+gem 'skeleton-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
