@@ -28,6 +28,7 @@ gem 'haml'
 
 # Skeleton CSS framework
 gem 'skeleton-rails'
+gem 'normalize-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

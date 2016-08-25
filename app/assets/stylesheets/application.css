@@ -12,6 +12,7 @@
  *
  *= require_tree .
  *= require_self
- *= require normalize
+ *= require normalize-rails
  *= require skeleton
+ *= require style
  */

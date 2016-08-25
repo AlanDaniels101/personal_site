@@ -1,4 +1,12 @@
 - provide(:title, "Alan Daniels")
 
-%h1 
-  Welcome
+%nav.navigation
+  %ul.main-navigation{:role => "navigation"}
+    %li
+      %a{:href => "#hero"} Home
+
+%section#hero.hero.u-full-width
+  .hero-image
+  .container.centered
+    .twelve.colums
+      %h1.separator Hello
